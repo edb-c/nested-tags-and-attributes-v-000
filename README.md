@@ -57,13 +57,15 @@ Both `<id>` and `<class>` attributes are often used for styling purposes since t
 ```html
 	<p id='main_paragraph'>This element can be uniquely identified  using the 'main_paragraph' id HTML attribute</p>
 	
+	<p id='main_paragraph2'>This element can be uniquely identified  using the 'main_paragraph2' id HTML attribute</p>
+	
 	<p class='other_paragraphs'>This element belongs to a group of elements who share the 'other_paragraphs' HTML class attribute</p>
 	<p class='other_paragraphs'>This element also belongs to a group of elements who share the 'other_paragraphs' HTML class attribute</p>
 ```
 
 ## Resources
 
-* [Nested Tags](http://www.bu.edu/tech/services/cccs/websites/www/non-wordpress/start/html-introduction/syntax/nesting-tags/)
+* [Nested Tags](http://www.bu.edu/tech/services/cccs/websites/www/non-wordpress/start/html-introductionhttps://learn.co/tracks/full-stack-web-development-v4/html-and-css-introduction/html-basics/nested-tags-and-attributes#/syntax/nesting-tags/)
 * [More on Nested Tags](https://www.thoughtco.com/nesting-html-tags-3466475)
 * [More on Nesting...](http://www.iraqtimeline.com/maxdesign/basicdesign/principles/prinnest.html)
 * [HTML Attributes](https://www.w3schools.com/html/html_attributes.asp)
